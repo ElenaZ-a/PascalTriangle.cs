@@ -1,0 +1,15 @@
+C:\Users\Елена\Desktop\PascalTriangle.cs\Pascal_T.cs\bin\Debug\net6.0\Pascal_T.cs.exe
+C:\Users\Елена\Desktop\PascalTriangle.cs\Pascal_T.cs\bin\Debug\net6.0\Pascal_T.cs.deps.json
+C:\Users\Елена\Desktop\PascalTriangle.cs\Pascal_T.cs\bin\Debug\net6.0\Pascal_T.cs.runtimeconfig.json
+C:\Users\Елена\Desktop\PascalTriangle.cs\Pascal_T.cs\bin\Debug\net6.0\Pascal_T.cs.dll
+C:\Users\Елена\Desktop\PascalTriangle.cs\Pascal_T.cs\bin\Debug\net6.0\Pascal_T.cs.pdb
+C:\Users\Елена\Desktop\PascalTriangle.cs\Pascal_T.cs\obj\Debug\net6.0\Pascal_T.cs.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\PascalTriangle.cs\Pascal_T.cs\obj\Debug\net6.0\Pascal_T.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\PascalTriangle.cs\Pascal_T.cs\obj\Debug\net6.0\Pascal_T.cs.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\PascalTriangle.cs\Pascal_T.cs\obj\Debug\net6.0\Pascal_T.cs.AssemblyInfo.cs
+C:\Users\Елена\Desktop\PascalTriangle.cs\Pascal_T.cs\obj\Debug\net6.0\Pascal_T.cs.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\PascalTriangle.cs\Pascal_T.cs\obj\Debug\net6.0\Pascal_T.cs.dll
+C:\Users\Елена\Desktop\PascalTriangle.cs\Pascal_T.cs\obj\Debug\net6.0\refint\Pascal_T.cs.dll
+C:\Users\Елена\Desktop\PascalTriangle.cs\Pascal_T.cs\obj\Debug\net6.0\Pascal_T.cs.pdb
+C:\Users\Елена\Desktop\PascalTriangle.cs\Pascal_T.cs\obj\Debug\net6.0\Pascal_T.cs.genruntimeconfig.cache
+C:\Users\Елена\Desktop\PascalTriangle.cs\Pascal_T.cs\obj\Debug\net6.0\ref\Pascal_T.cs.dll
